@@ -3,7 +3,6 @@
 ![TypeScript Tag](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript Tag](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Solidity](https://img.shields.io/badge/Solidity-dfdfdf?style=for-the-badge&logoColor=000000&logo=Solidity)
-![Golang Tag](https://img.shields.io/badge/Golang-007ACC?style=for-the-badge&logo=go&logoColor=white)
 
 **Frameworks, libraries, databases, technologies, API etc.**
 
